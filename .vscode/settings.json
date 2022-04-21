@@ -2,5 +2,7 @@
   "cSpell.words": [
     "Macbook",
     "reduxjs"
-  ]
+  ],
+  "typescript.format.enable": true,
+  "editor.inlayHints.enabled": false
 }
